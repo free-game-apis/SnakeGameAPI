@@ -6,7 +6,8 @@ Include our script:
 <head>
     <title>Snake Game</title>
     <script src="script.js"></script>
-</head>```
+</head>
+```
 Then, initialize a new snake game:
 ```
 const snakegame = new snakeGame({
