@@ -1,7 +1,7 @@
 # What can you customize??
 #Version 1 customization (newest version):
 # If you haven't setup snake yet...
-[Click here for instructions on setting up snake!](../readme.md)
+[Click here for instructions on setting up snake!](../README.md)
 
 # Rows (Default is 20):
 ```
