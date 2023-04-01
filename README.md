@@ -10,8 +10,14 @@ Include our script:
 ```
 Then, initialize a new snake game:
 ```
+<script>
 const snakegame = new snakeGame({
     divElementId: "game-container",
     url: "gamesforus.com",
 })
+</script>
+```
+Make sure that the divElementId that you initialized with the script actually exists on the page:
+```
+<div id="game-container"></div>
 ```
