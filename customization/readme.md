@@ -1,10 +1,29 @@
 # What can you customize??
 #Version 1 customization (newest version):
+# If you haven't setup snake yet...
+[Click here for instructions on setting up snake!](readme.md)
+
+# Rows (Default is 20):
 ```
 const snakegame = new snakeGame({
     divElementId: "game-container",
     url: "gamesforus.com",
-    rows: 10, //CUSTOMIZE THE ROWS! THE DEFAULT IS 20! IF YOU WANT THE DEFAULT, JUST DON'T INCLUDE THIS LINE
-    cols: 10, //CUSTOMIZE THE COLUMNS! THE DEFAULT IS 20! IF YOU WANT THE DEFAULT, JUST DON'T INCLUDE THIS LINE
-    blockSize: 30, //CUSTOMIZE THE BLOCKSIZE! THE DEFAULT IS 25! IF YOU WANT THE DEFAULT, JUST DON'T INCLUDE THIS LINE
+    rows: 10,
 })
+```
+# Columns (Default is 20):
+```
+const snakegame = new snakeGame({
+    divElementId: "game-container",
+    url: "gamesforus.com",
+    cols: 10,
+})
+```
+# Block Size (Default is 25):
+```
+const snakegame = new snakeGame({
+    divElementId: "game-container",
+    url: "gamesforus.com",
+    blockSize: 30,
+})
+```
