@@ -21,3 +21,4 @@ Make sure that the divElementId that you initialized with the script actually ex
 ```
 <div id="game-container"></div>
 ```
+THATS IT!
