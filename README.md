@@ -5,12 +5,32 @@ We also allow you to set the ammount of rows and columns. For all customization 
 DOWNLOAD NEWEST SCRIPT VERSION: [Click Me](versions/1.0.0/script.js)
 
 # How to install:
+Entire code example (below will explain each of the parts of code): 
+```
+<head>
+    <title>Snake Game</title> 
+</head>
+
+<div id="game-container"></div>
+<script src="script.js"></script> <!-- Download the script, and link it in the html. -->
+
+<script>
+const snakegame = new snakeGame({
+    divElementId: "game-container",
+    url: "gamesforus.com",
+})
+</script>
+```
 Include our script:
 ```
 <head>
     <title>Snake Game</title> 
-    <script src="script.js"></script> <!-- Download the script, and link it in the html. -->
 </head>
+```
+Make sure that the divElementId that you initialized with the script actually exists on the page:
+```
+<div id="game-container"></div>
+<script src="script.js"></script> <!-- Download the script, and link it in the html. -->
 ```
 Then, initialize a new snake game:
 ```
@@ -20,9 +40,5 @@ const snakegame = new snakeGame({
     url: "gamesforus.com",
 })
 </script>
-```
-Make sure that the divElementId that you initialized with the script actually exists on the page:
-```
-<div id="game-container"></div>
 ```
 THATS IT!
