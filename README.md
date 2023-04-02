@@ -5,7 +5,7 @@ We also allow you to set the ammount of rows and columns. For all customization 
 Include our script:
 ```
 <head>
-    <title>Snake Game</title>
+    <title>Snake Game</title> <!-- Download the script, and link it in the html. -->
     <script src="script.js"></script>
 </head>
 ```
