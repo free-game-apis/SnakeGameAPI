@@ -21,6 +21,7 @@ const snakegame = new snakeGame({
 })
 </script>
 ```
+# The Code Explained (above is the entire code)
 Include our script:
 ```
 <head>
