@@ -7,7 +7,7 @@
 ```
 const snakegame = new snakeGame({
     divElementId: "game-container",
-    url: "gamesforus.com",
+    url: "ENTER YOUR URL OR SITE NAME",
     rows: 10,
 })
 ```
@@ -15,7 +15,7 @@ const snakegame = new snakeGame({
 ```
 const snakegame = new snakeGame({
     divElementId: "game-container",
-    url: "gamesforus.com",
+    url: "ENTER YOUR URL OR SITE NAME",
     cols: 10,
 })
 ```
@@ -23,7 +23,7 @@ const snakegame = new snakeGame({
 ```
 const snakegame = new snakeGame({
     divElementId: "game-container",
-    url: "gamesforus.com",
+    url: "ENTER YOUR URL OR SITE NAME",
     blockSize: 30,
 })
 ```
