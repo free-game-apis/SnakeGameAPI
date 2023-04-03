@@ -3,7 +3,12 @@ An easy snake game you can include in your website.
 
 We also allow you to set the ammount of rows and columns. For all customization features, [Click Me](customization/readme.md)
 
-Version 2 is done, but I like to release a new version every week. V2 has score counter, high score, and you can play realtime with friends by creating a room id.
+MOVE WITH ARROW KEYS!
+
+To Do:
+    [] Fix bug where if you press both arrow keys at once, you die.
+    [] Add WASD
+    [] Add color customization options
 
 DOWNLOAD NEWEST SCRIPT VERSION: [Click Me](versions/1.0.0/script.js)
 
