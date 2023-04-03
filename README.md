@@ -6,9 +6,10 @@ We also allow you to set the ammount of rows and columns. For all customization 
 MOVE WITH ARROW KEYS!
 
 To Do:
-    [] Fix bug where if you press both arrow keys at once, you die.
-    [] Add WASD
-    [] Add color customization options
+
+- [ ] Fix bug where if you press both arrow keys at once, you die.
+- [ ] Add WASD
+- [ ] Add color customization options
 
 DOWNLOAD NEWEST SCRIPT VERSION: [Click Me](versions/1.0.0/script.js)
 
