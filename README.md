@@ -48,4 +48,4 @@ const snakegame = new snakeGame({
 // We also allow you to set the ammount of rows, columns, and a ton of other settings. For all customization features, click the link at the top of this page.
 </script>
 ```
-THATS IT!
+THAT'S IT!
