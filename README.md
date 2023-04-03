@@ -20,7 +20,7 @@ Entire code example (below will explain each of the parts of code):
 <script>
 const snakegame = new snakeGame({
     divElementId: "game-container",
-    url: "gamesforus.com",
+    url: "ENTER YOUR URL OR SITE NAME",
 })
 // We also allow you to set the ammount of rows, columns, and a ton of other settings. For all customization features, click the link at the top of this page.
 </script>
