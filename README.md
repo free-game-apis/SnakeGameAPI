@@ -10,6 +10,7 @@ DOWNLOAD NEWEST SCRIPT VERSION: [Click Me](versions/1.0.0/script.js)
 # How to install:
 Entire code example (below will explain each of the parts of code): 
 ```
+<!DOCTYPE html>
 <head>
     <title>Snake Game</title> 
 </head>
