@@ -1,7 +1,7 @@
 # SnakeGameAPI
 An easy snake game you can include in your website.
 
-We also allow you to set the ammount of rows and columns. For all customization features, [Click Me](customization.md)
+We also allow you to set the ammount of rows and columns. For all customization features, [Click Me](customize.md)
 
 MOVE WITH ARROW KEYS! WASD IN NEXT UPDATE!
 
