@@ -7,10 +7,7 @@ MOVE WITH ARROW KEYS!
 
 DOWNLOAD NEWEST SCRIPT VERSION: [Click Me](versions/1.0.0/script.js)
 
-
-# 100% Unblocked Sample:
-
-To play 100% unblocked, please [go to this page](unblocked)
+# Code example:
 
 ```
 <!DOCTYPE html>
