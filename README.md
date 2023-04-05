@@ -12,8 +12,6 @@ DOWNLOAD NEWEST SCRIPT VERSION: [Click Me](versions/1.0.0/script.js)
 
 To play 100% unblocked, please [go to this page](unblocked)
 
-# How to install:
-Entire code example (below will explain each of the parts of code): 
 ```
 <!DOCTYPE html>
 <head>
