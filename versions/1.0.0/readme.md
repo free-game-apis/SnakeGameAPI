@@ -3,7 +3,7 @@ An easy snake game you can include in your website.
 
 We also allow you to set the ammount of rows and columns. For all customization features, [Click Me](customization.md)
 
-MOVE WITH ARROW KEYS!
+MOVE WITH ARROW KEYS! WASD IN NEXT UPDATE!
 
 DOWNLOAD NEWEST SCRIPT VERSION: [Click Me](script.js)
 
