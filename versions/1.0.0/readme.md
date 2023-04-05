@@ -7,7 +7,7 @@ MOVE WITH ARROW KEYS! WASD IN NEXT UPDATE!
 
 DOWNLOAD NEWEST SCRIPT VERSION: [Click Me](script.js)
 
-# Code example:
+# Code example/tutorial (you can copy this whole code):
 
 ```
 <!DOCTYPE html>
