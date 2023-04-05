@@ -5,7 +5,7 @@ We also allow you to set the ammount of rows and columns. For all customization 
 
 MOVE WITH ARROW KEYS!
 
-DOWNLOAD NEWEST SCRIPT VERSION: [Click Me](versions/1.0.0/script.js)
+DOWNLOAD NEWEST SCRIPT VERSION: [Click Me](script.js)
 
 # Code example:
 
