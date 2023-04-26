@@ -1,13 +1,13 @@
 # SnakeGameAPI
-An easy snake game you can include in your website.
+Version 1.0.0
 
-We also allow you to set the ammount of rows and columns. For all customization features, [Click Me](customize.md)
+We also allow you to set the ammount of rows and columns. For all customization features in version 1.0.0, [click me.](customize.md)
 
 MOVE WITH ARROW KEYS! WASD IN NEXT UPDATE!
 
 DOWNLOAD NEWEST SCRIPT VERSION: [Click Me](script.js)
 
-# Code example:
+# Code example/tutorial (you can copy this whole code):
 
 ```
 <!DOCTYPE html>
@@ -27,13 +27,14 @@ const snakegame = new snakeGame({
 </script>
 ```
 # The Code Explained (above is the entire code)
-Include our script:
+I reccomend adding DOCTYPE html, as it makes the page look better:
 ```
+<!DOCTYPE html>
 <head>
     <title>Snake Game</title> 
 </head>
 ```
-Make sure that the divElementId that you initialized with the script actually exists on the page:
+Create the div where you want the game, and import the script AFTER the div
 ```
 <div id="game-container"></div>
 <script src="script.js></script> <!-- Download the script and upload it in the same folder; the script is linked at the top of this document. -->
