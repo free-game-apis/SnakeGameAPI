@@ -4,13 +4,13 @@
 
 ## Skip to where you need to be...
 - [Color Changes](#color-changes)
-  - [PlayerColor](#playercolor)
-  - [FoodColor](#foodcolor)
-  - [Background Color](#background-color)
+  - [PlayerColor](#color-changes)
+  - [FoodColor](#color-changes)
+  - [Background Color](#color-changes)
 - [Game Changes](#game-changes)
-  - [Rows](#rows)
-  - [Columns](#columns)
-  - [Block Size](#block-size)
+  - [Rows](#game-changes)
+  - [Columns](#game-changes)
+  - [Block Size](#game-changes)
 
 ## Color Changes
 
