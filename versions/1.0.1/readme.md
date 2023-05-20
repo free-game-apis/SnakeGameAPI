@@ -27,13 +27,13 @@ const snakegame = new snakeGame({
 </script>
 ```
 # The Code Explained (above is the entire code)
-Include our script:
+Title the page:
 ```
 <head>
     <title>Snake Game</title> 
 </head>
 ```
-Make sure that the divElementId that you initialized with the script actually exists on the page:
+Create the div the game will be played in, and import the script.
 ```
 <div id="game-container"></div>
 <script src="script.js></script> <!-- Download the script and upload it in the same folder; the script is linked at the top of this document. -->
